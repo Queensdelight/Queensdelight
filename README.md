@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Queensdelight
 - 👀 I’m interested in Reaching more than the World
-- 🌱 I’m currently learning Frontend Programming Language
-- 💞️ I’m looking to collaborate on Zuri
+- 🌱 I’m currently learning Data Analytics at NWMU
+- 💞️ I’m looking to collaborate with NorthWest Missouri State University
 - 📫 How to reach me: queensdelight2011@gmail.com
 
 <!---
